@@ -2,6 +2,7 @@
 These are the source files to the solutions of the two-part challenges of Day 2.
 
 The challenges' instruction file that our programs need to take as input is:
+
 Instruct_Doc.txt
 
 
@@ -21,5 +22,6 @@ main_part2.cpp
 
 Lastly, two successful execution screen-shots are shwon:
 
-part1.pdf
-part2.pdf
+part1.png
+
+part2.png
