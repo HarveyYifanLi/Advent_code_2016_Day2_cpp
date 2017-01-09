@@ -1,5 +1,5 @@
 # Advent_code_2016_Day2_cpp
-This is the source files to the solutions of the two-part challenges of Day 2.
+These are the source files to the solutions of the two-part challenges of Day 2.
 
 The challenges' instruction file that our programs need to take as input is:
 Instruct_Doc.txt
