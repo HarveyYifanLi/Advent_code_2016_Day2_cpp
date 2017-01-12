@@ -43,11 +43,11 @@
 using std::cout;
 using std::endl;
 
-const char FILE_NAME[] = "/Users/yifan/Desktop/Instruct_Doc.txt";
+const char FILE_NAME[] = "/Users/yifan/Desktop/Instruct_Doc.txt"; // define a const char array to hold the name of the file
 
 int main() {
     
-    FILE *in_file;   /* define input file */
+    FILE *in_file;   /* define input file */ // let in_file be the pointer of the type "to-the-FILE-class"
     
     /* character or EOF flag from input */
     char ch;
