@@ -20,12 +20,12 @@ bool valid_button_value(int button, char ch){
         return  true;
         
     }
-    else if (ch == 'L' && ((button-1) >= 1 && (button-1) <= 9)){
+    else if (ch == 'L' && button !=4 && button !=7 && ((button-1) >= 1 && (button-1) <= 9)){
         
         return  true;
         
     }
-    else if (ch == 'R' && ((button+1) >= 1 && (button+1) <= 9)){
+    else if (ch == 'R' && button !=3 && button !=6 &&((button+1) >= 1 && (button+1) <= 9)){
         
         return  true;
         
