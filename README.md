@@ -20,8 +20,6 @@ valid_button_value.h  //This is the header file that gives the declaration of th
 
 main_part2.cpp
 
-### Lastly, two successful execution screen-shots are shwon:
+### Lastly, the painful victory is at:
+victory.png
 
-part1.png
-
-part2.png
